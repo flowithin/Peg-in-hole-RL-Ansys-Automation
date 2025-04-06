@@ -2,7 +2,9 @@
 - Due to rise of complexity, it will be heavy workload to formulate equations in different scenarios.
 - To fascilitate RL, we use ANSYS to simulate the peg-in-hole process with different material and shapes.
 - Notably, we formalize a workflow in python automation inside the ANSYS software feeding data into RL training models.
-How to obtain reaction force?
+
+The following are some code snippets collected along the way.
+- How to obtain reaction force?
 
 $$
 F_{sp}=2\pi R^2\times9\times stress=443N
