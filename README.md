@@ -1,3 +1,7 @@
+- This is a project that utilizes reinforcement learning to solve peg-in-hole problem in a typical setting.
+- Due to rise of complexity, it will be heavy workload to formulate equations in different scenarios.
+- To fascilitate RL, we use ANSYS to simulate the peg-in-hole process with different material and shapes.
+- Notably, we formalize a workflow in python automation inside the ANSYS software feeding data into RL training models.
 How to obtain reaction force?
 
 $$
